@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="DataBaseEditor\Auto_clienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataBaseEditor\Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataBaseEditor\Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataBaseEditor\Zapchasti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeAuto_clienta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditingMode\EditingModeZapchasti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.deps.json
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.dll
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\ref\DataBaseLib.dll
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\bin\Debug\net6.0\DataBaseLib.pdb
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.AssemblyReference.cache
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfoInputs.cache
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.AssemblyInfo.cs
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.csproj.CoreCompileInputs.cache
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.dll
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\ref\DataBaseLib.dll
+D:\РАБОЧИЙ СТОЛ\Проект бд\.git\DataBaseLesson-main\WindowsFormsApp1\DataBaseLib\obj\Debug\net6.0\DataBaseLib.pdb
